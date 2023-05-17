@@ -1,0 +1,23 @@
+{
+  "name": "camelot-default-token-list",
+  "version": "1.0.0",
+  "author": "Camelot Labs",
+  "license": "GPL-3.0-or-later",
+  "scripts": {
+    "test": "mocha",
+    "build": "mkdir -p build && node src/write.js > build/tokenlist.json"
+  },
+  "files": [
+    "build/tokenlist.json"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CamelotLabs/default-token-list.git"
+  },
+  "devDependencies": {
+    "@ethersproject/address": "^5.0.2",
+    "ajv": "^6.12.3",
+    "chai": "^4.3.7",
+    "mocha": "^10.2.0"
+  }
+}
