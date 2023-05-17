@@ -5,10 +5,10 @@
   "license": "GPL-3.0-or-later",
   "scripts": {
     "test": "mocha",
-    "build": "mkdir -p build && node src/write.js > build/tokenlist.json"
+    "build": "mkdir -p build && node src/write.js > build/tokens.json && cp _redirects build/"
   },
   "files": [
-    "build/tokenlist.json"
+    "build/tokens.json"
   ],
   "repository": {
     "type": "git",
