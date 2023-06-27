@@ -257,7 +257,7 @@
     "chainId": 41234,
     "symbol": "NEU",
     "name": "Neutra token",
-    "address": "0xdA51015b73cE11F77A115Bb1b8a7049e02dDEcf0",
+    "address": "0x6609BE1547166D1C4605F3A243FDCFf467e600C3",
     "logoURI": "https://app.camelot.exchange/images/tokens/neu.svg",
     "decimals": 18,
     "quote": "other"
