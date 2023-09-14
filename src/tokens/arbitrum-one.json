@@ -143,13 +143,24 @@
   },
   {
     "chainId": 41234,
-    "symbol": "USDC",
-    "name": "USDC",
+    "symbol": "USDC.e",
+    "name": "Bridged USDC",
     "address": "0xFF970A61A04b1cA14834A43f5dE4533eBDDB5CC8",
     "logoURI": "https://app.camelot.exchange/images/tokens/usdc.svg",
     "decimals": 6,
     "common": true,
     "quote": "stable",
+    "priceChartPair": "0x8dbbc03de7701cf3336a035695f8d3225418e79f"
+  },
+  {
+    "chainId": 41234,
+    "symbol": "USDC",
+    "name": "USDC",
+    "address": "0xaf88d065e77c8cC2239327C5EDb3A432268e5831",
+    "logoURI": "https://app.camelot.exchange/images/tokens/usdc.svg",
+    "decimals": 6,
+    "common": true,
+    "quote": "derived_stable",
     "priceChartPair": "0x8dbbc03de7701cf3336a035695f8d3225418e79f"
   },
   {
@@ -246,9 +257,18 @@
   },
   {
     "chainId": 41234,
+    "symbol": "TAROT-OLD",
+    "name": "Tarot (deprecated)",
+    "address": "0x6688b00f0c23a4a546BEaAE51a7c90C439895D48",
+    "logoURI": "https://app.camelot.exchange/images/tokens/tarot.png",
+    "decimals": 18,
+    "quote": "other"
+  },
+  {
+    "chainId": 41234,
     "symbol": "TAROT",
     "name": "Tarot",
-    "address": "0x6688b00f0c23a4a546BEaAE51a7c90C439895D48",
+    "address": "0x13278cD824D33A7aDB9f0a9A84ACA7C0D2DEEBf7",
     "logoURI": "https://app.camelot.exchange/images/tokens/tarot.png",
     "decimals": 18,
     "quote": "other"
@@ -715,8 +735,231 @@
     "chainId": 41234,
     "symbol": "DMT",
     "name": "DMT",
-    "address": "0x0Be47c0355306Aff6166A62B023Ae0b2bb85ECb0",
+    "address": "0x8B0E6f19Ee57089F7649A455D89D7bC6314D04e8",
     "logoURI": "https://app.camelot.exchange/images/tokens/dmt.png",
+    "decimals": 18,
+    "quote": "other"
+  },
+  {
+    "chainId": 41234,
+    "symbol": "USD+",
+    "name": "USD+",
+    "address": "0xe80772Eaf6e2E18B651F160Bc9158b2A5caFCA65",
+    "logoURI": "https://app.camelot.exchange/images/tokens/usdp.png",
+    "decimals": 6,
+    "quote": "derived_stable"
+  },
+  {
+    "chainId": 41234,
+    "symbol": "L2DAO",
+    "name": "Layer2DAO",
+    "address": "0x2CaB3abfC1670D1a452dF502e216a66883cDf079",
+    "logoURI": "https://app.camelot.exchange/images/tokens/l2dao.png",
+    "decimals": 18,
+    "quote": "other"
+  },
+  {
+    "chainId": 41234,
+    "symbol": "EQB",
+    "name": "Equilibria Token",
+    "address": "0xBfbCFe8873fE28Dfa25f1099282b088D52bbAD9C",
+    "logoURI": "https://app.camelot.exchange/images/tokens/eqb.jpg",
+    "decimals": 18,
+    "quote": "other"
+  },
+  {
+    "chainId": 41234,
+    "symbol": "USDF",
+    "name": "Fractal Protocol Vault Token",
+    "address": "0xae48b7C8e096896E32D53F10d0Bf89f82ec7b987",
+    "logoURI": "https://app.camelot.exchange/images/tokens/usdf.jpg",
+    "decimals": 6,
+    "quote": "derived_stable"
+  },
+  {
+    "chainId": 41234,
+    "symbol": "PNP",
+    "name": "Penpie Token",
+    "address": "0x2Ac2B254Bc18cD4999f64773a966E4f4869c34Ee",
+    "logoURI": "https://app.camelot.exchange/images/tokens/pnp.jpg",
+    "decimals": 18,
+    "quote": "other"
+  },
+  {
+    "chainId": 41234,
+    "symbol": "rPNP",
+    "name": "Vested PNP receipt",
+    "address": "0x279427dF97B34Da65D96E92efDD2b961085356af",
+    "logoURI": "https://app.camelot.exchange/images/tokens/pnp.jpg",
+    "decimals": 18,
+    "quote": "other",
+    "excludeFromExchange": true,
+    "priceOf": "0x2Ac2B254Bc18cD4999f64773a966E4f4869c34Ee"
+  },
+  {
+    "chainId": 41234,
+    "symbol": "USH",
+    "name": "unshETHing_Token",
+    "address": "0x51A80238B5738725128d3a3e06Ab41c1d4C05C74",
+    "logoURI": "https://app.camelot.exchange/images/tokens/ush.svg",
+    "decimals": 18,
+    "quote": "other"
+  },
+  {
+    "chainId": 41234,
+    "symbol": "unshETH",
+    "name": "unshETH Ether",
+    "address": "0x0Ae38f7E10A43B5b2fB064B42a2f4514cbA909ef",
+    "logoURI": "https://app.camelot.exchange/images/tokens/unsheth.svg",
+    "decimals": 18,
+    "quote": "derived_native"
+  },
+  {
+    "chainId": 41234,
+    "symbol": "RDO",
+    "name": "Rodeo",
+    "address": "0x033f193b3Fceb22a440e89A2867E8FEE181594D9",
+    "logoURI": "https://app.camelot.exchange/images/tokens/rdo.svg",
+    "decimals": 18,
+    "quote": "other"
+  },
+  {
+    "chainId": 41234,
+    "symbol": "srRDO",
+    "name": "Rodeo Sale Receipt",
+    "address": "0xC4327DC9Ef2511706D233e813b822f196bc027ac",
+    "logoURI": "https://app.camelot.exchange/images/tokens/rdo.svg",
+    "decimals": 18,
+    "quote": "other",
+    "excludeFromExchange": true
+  },
+  {
+    "chainId": 41234,
+    "symbol": "AURY",
+    "name": "Aury",
+    "address": "0x11Bf4f05EB28b802ED3aB672594DEcB20ffe2313",
+    "logoURI": "https://app.camelot.exchange/images/tokens/aury.png",
+    "decimals": 9,
+    "quote": "other"
+  },
+  {
+    "chainId": 41234,
+    "symbol": "UWU",
+    "name": "Unlimited Network Token",
+    "address": "0x05d35769a222AfFd6185e20F3f3676Abde56C25F",
+    "logoURI": "https://app.camelot.exchange/images/tokens/uwu.svg",
+    "decimals": 18,
+    "quote": "other"
+  },
+  {
+    "chainId": 41234,
+    "symbol": "CTX",
+    "name": "Cryptex",
+    "address": "0x84F5c2cFba754E76DD5aE4fB369CfC920425E12b",
+    "logoURI": "https://app.camelot.exchange/images/tokens/ctx.jpeg",
+    "decimals": 18,
+    "quote": "other"
+  },
+  {
+    "chainId": 41234,
+    "symbol": "plsARB",
+    "name": "Plutus ARB",
+    "address": "0x7a5D193fE4ED9098F7EAdC99797087C96b002907",
+    "logoURI": "https://app.camelot.exchange/images/tokens/plsarb.svg",
+    "decimals": 18,
+    "quote": "other"
+  },
+  {
+    "chainId": 41234,
+    "symbol": "esPLS",
+    "name": "Escrowed PLS",
+    "address": "0xc636C1f678df0a834AD103196338CB7dd1D194FF",
+    "logoURI": "https://app.camelot.exchange/images/tokens/pls.svg",
+    "decimals": 18,
+    "quote": "other",
+    "excludeFromExchange": true,
+    "priceOf": "0x51318B7D00db7ACc4026C88c3952B66278B6A67F"
+  },
+  {
+    "chainId": 41234,
+    "symbol": "RDNT",
+    "name": "Radiant",
+    "address": "0x3082CC23568eA640225c2467653dB90e9250AaA0",
+    "logoURI": "https://app.camelot.exchange/images/tokens/rdnt.svg",
+    "decimals": 18,
+    "quote": "other"
+  },
+  {
+    "chainId": 41234,
+    "symbol": "PGS",
+    "name": "PegasusBot",
+    "address": "0x8933fEDD98Cbb482e27C41e1bD7216a4e42eBd39",
+    "logoURI": "https://app.camelot.exchange/images/tokens/pgs.png",
+    "decimals": 18,
+    "quote": "other"
+  },
+  {
+    "chainId": 41234,
+    "symbol": "TST",
+    "name": "Standard Token",
+    "address": "0xf5A27E55C748bCDdBfeA5477CB9Ae924f0f7fd2e",
+    "logoURI": "https://app.camelot.exchange/images/tokens/tst.svg",
+    "decimals": 18,
+    "quote": "other"
+  },
+  {
+    "chainId": 41234,
+    "symbol": "EUROs",
+    "name": "The Standard EURO",
+    "address": "0x643b34980E635719C15a2D4ce69571a258F940E9",
+    "logoURI": "https://app.camelot.exchange/images/tokens/euros.svg",
+    "decimals": 18,
+    "quote": "derived_stable"
+  },
+  {
+    "chainId": 41234,
+    "symbol": "ALTD",
+    "name": "Altitude",
+    "address": "0x8929e9DbD2785e3BA16175E596CDD61520feE0D1",
+    "logoURI": "https://app.camelot.exchange/images/tokens/altd.jpg",
+    "decimals": 18,
+    "quote": "other"
+  },
+  {
+    "chainId": 41234,
+    "symbol": "GMBL",
+    "name": "GMBL COMPUTER CHiP",
+    "address": "0xE9A5aF50874c0ef2748b5DB70104B5ccb5557f6d",
+    "logoURI": "https://app.camelot.exchange/images/tokens/gmbl.png",
+    "decimals": 18,
+    "quote": "other"
+  },
+  {
+    "chainId": 41234,
+    "symbol": "xGMBL",
+    "name": "GMBL escrowed token",
+    "address": "0x911a05E03B6C70bb55090e2D2B2186042F81287D",
+    "logoURI": "https://app.camelot.exchange/images/tokens/xgmbl.png",
+    "decimals": 18,
+    "quote": "other",
+    "excludeFromExchange": true,
+    "priceOf": "0xE9A5aF50874c0ef2748b5DB70104B5ccb5557f6d"
+  },
+  {
+    "chainId": 41234,
+    "symbol": "MOZ",
+    "name": "Mozaic Token",
+    "address": "0x20547341E58fB558637FA15379C92e11F7b7F710",
+    "logoURI": "https://app.camelot.exchange/images/tokens/moz.png",
+    "decimals": 18,
+    "quote": "other"
+  },
+  {
+    "chainId": 41234,
+    "symbol": "CONE",
+    "name": "CONE",
+    "address": "0xD3934a2e428e31ffC14B1F69B0BEc79Db3e0C614",
+    "logoURI": "https://app.camelot.exchange/images/tokens/cone.svg",
     "decimals": 18,
     "quote": "other"
   }
