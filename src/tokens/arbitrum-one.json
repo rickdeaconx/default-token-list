@@ -962,5 +962,14 @@
     "logoURI": "https://app.camelot.exchange/images/tokens/cone.svg",
     "decimals": 18,
     "quote": "other"
+  },
+  {
+    "chainId": 42161,
+    "symbol": "FLR",
+    "name": "Florin",
+    "address": "0x9B6226dd0191a77d032F56A6d383044EE99944C3",
+    "logoURI": "https://app.camelot.exchange/images/tokens/flr.svg",
+    "decimals": 18,
+    "quote": "derived_stable"
   }
 ]
