@@ -980,5 +980,14 @@
     "logoURI": "https://raw.githubusercontent.com/CamelotLabs/default-token-list/main/logos/esrdnt.svg",
     "decimals": 18,
     "quote": "other"
+  },
+  {
+    "chainId": 42161,
+    "symbol": "PBX",
+    "name": "Paribus",
+    "address": "0xbAD58ed9b5f26A002ea250D7A60dC6729a4a2403",
+    "logoURI": "https://raw.githubusercontent.com/CamelotLabs/default-token-list/main/logos/pbx.png",
+    "decimals": 18,
+    "quote": "other"
   }
 ]
