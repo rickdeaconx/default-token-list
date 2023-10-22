@@ -17,9 +17,13 @@ To directly submit the integration of your token to Camelot's default token list
 
 **1. Fork this repo**
 
-**2. Add your token in the relevant "blockchain".json file in src/tokens/.**
+**2. (Optional) Add your token logo in src/assets/.**
 
-**3. Provide the following required information for your token.**
+*The URI logo path in "blockchain".json will need to be set as BASE_URL/assets/token_symbol.svg (cf example-chain.json)*
+
+**3. Add your token in the relevant "blockchain".json file in src/tokens/.**
+
+**4. Provide the following required information for your token.**
 
 - chainId (number)
 - symbol (string)
@@ -34,7 +38,7 @@ To directly submit the integration of your token to Camelot's default token list
   - "derived_native": e.g. wstETH, rETH
   - "derived_stable": e.g. jUSDC, fUSDC
 
-**4. Provide the following optional info IF NEEDED ONLY for your token.**
+**5. Provide the following optional info IF NEEDED ONLY for your token.**
 
 - excludeFromExchange (boolean): to exclude your token from the swap and liquidity list modal, only for illiquid assets that still need to be listed on the app
 - priceChartPair (string): address, to force a specific asset to be paired with this token on the swap page chart
