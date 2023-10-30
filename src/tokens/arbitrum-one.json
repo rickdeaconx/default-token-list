@@ -25,7 +25,7 @@
     "symbol": "ARB",
     "name": "Arbitrum",
     "address": "0x912CE59144191C1204E64559FE8253a0e49E6548",
-    "logoURI": "BASE_URL/assets/arb.jpg",
+    "logoURI": "BASE_URL/assets/arb.png",
     "decimals": 18,
     "common": true,
     "quote": "other"
