@@ -1079,5 +1079,14 @@
     "logoURI": "BASE_URL/assets/y2k.svg",
     "decimals": 18,
     "quote": "other"
+  },
+  {
+    "chainId": 42161,
+    "symbol": "gOHM",
+    "name": "Governance OHM",
+    "address": "0x8D9bA570D6cb60C7e3e0F31343Efe75AB8E65FB1",
+    "logoURI": "BASE_URL/assets/gohm.png",
+    "decimals": 18,
+    "quote": "other"
   }
 ]
