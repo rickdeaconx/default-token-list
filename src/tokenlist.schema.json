@@ -319,6 +319,24 @@
           "examples": [
             "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48"
           ]
+        },
+        "sellTax": {
+          "type": "integer",
+          "description": "The tax in bp applied when selling the asset",
+          "minimum": 0,
+          "maximum": 10000,
+          "examples": [
+            18
+          ]
+        },
+        "buyTax": {
+          "type": "integer",
+          "description": "The tax in bp applied when buying the asset",
+          "minimum": 0,
+          "maximum": 10000,
+          "examples": [
+            18
+          ]
         }
       },
       "required": [
