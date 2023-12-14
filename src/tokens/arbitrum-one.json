@@ -1198,5 +1198,24 @@
     "logoURI": "BASE_URL/assets/sfund.png",
     "decimals": 18,
     "quote": "other"
+  },
+  {
+    "chainId": 42161,
+    "symbol": "xMOZ",
+    "name": "Mozaic escrowed token",
+    "address": "0x288734c9d9db21C5660B6b893F513cb04B6cD2d6",
+    "logoURI": "BASE_URL/assets/xmoz.png",
+    "decimals": 18,
+    "quote": "other",
+    "priceOf": "0x3d9907F9a368ad0a51Be60f7Da3b97cf940982D8"
+  },
+  {
+    "chainId": 42161,
+    "symbol": "MOZ-LP",
+    "name": "Hercules Vault Token",
+    "address": "0x2e8751Fcd698B0A0704a04515667229e7843fa58",
+    "logoURI": "BASE_URL/assets/mozlp.png",
+    "decimals": 6,
+    "quote": "other"
   }
 ]
