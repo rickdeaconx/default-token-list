@@ -1283,7 +1283,7 @@
   },
   {
     "chainId": 42161,
-    "symbol": "wTao",
+    "symbol": "wTAO",
     "name": "Wrapped Tao",
     "address": "0xa14a26bb46e236da394da6B09a5b4CF737ce707b",
     "logoURI": "BASE_URL/assets/wtao.png",
