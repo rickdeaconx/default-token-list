@@ -411,26 +411,6 @@
   },
   {
     "chainId": 42161,
-    "symbol": "DSQ",
-    "name": "DSquared Governance Token",
-    "address": "0xdb0C6fC9E01cD95eb1d3bbAe6689962De489cD7B",
-    "logoURI": "BASE_URL/assets/dsq.jpg",
-    "decimals": 18,
-    "quote": "other"
-  },
-  {
-    "chainId": 42161,
-    "symbol": "esDSQ",
-    "name": "Escrowed DSquared Governance Token",
-    "address": "0xF76d53dE08C53B891E291D870e543BF8A0F6D314",
-    "logoURI": "BASE_URL/assets/esdsq.jpg",
-    "decimals": 18,
-    "excludeFromExchange": true,
-    "quote": "other",
-    "priceOf": "0xdb0C6fC9E01cD95eb1d3bbAe6689962De489cD7B"
-  },
-  {
-    "chainId": 42161,
     "symbol": "GENE",
     "name": "GenomesDAO",
     "address": "0x59A729658e9245B0cF1f8Cb9fb37945D2B06ea27",
