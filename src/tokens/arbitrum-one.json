@@ -1485,5 +1485,23 @@
     "logoURI": "BASE_URL/assets/ipor.svg",
     "decimals": 18,
     "quote": "other"
+  },
+  {
+    "chainId": 42161,
+    "symbol": "xD2",
+    "name": "xD2",
+    "address": "0x1c17a39B156189BF40905425170a3Ff62fb650DA",
+    "logoURI": "BASE_URL/assets/xd2.svg",
+    "decimals": 18,
+    "quote": "other"
+  },
+  {
+    "chainId": 42161,
+    "symbol": "RODEO++",
+    "name": "RODEO++",
+    "address": "0xeEe6E115Cb08Ac280Fc55642A61d8aDFba85Dfed",
+    "logoURI": "BASE_URL/assets/rodeo++.svg",
+    "decimals": 6,
+    "quote": "other"
   }
 ]
