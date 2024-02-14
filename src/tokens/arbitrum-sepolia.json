@@ -19,5 +19,14 @@
     "decimals": 18,
     "common": true,
     "quote": "stable"
+  },
+  {
+    "chainId": 421614,
+    "symbol": "GRAIL",
+    "name": "Camelot token",
+    "address": "0x52CFD1d72A64f8D13711bb7Dc3899653dbd4191B",
+    "logoURI": "BASE_URL/assets/grail.svg",
+    "decimals": 18,
+    "common": true
   }
 ]
