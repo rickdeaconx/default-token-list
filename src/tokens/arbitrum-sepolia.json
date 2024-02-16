@@ -27,6 +27,18 @@
     "address": "0x52CFD1d72A64f8D13711bb7Dc3899653dbd4191B",
     "logoURI": "BASE_URL/assets/grail.svg",
     "decimals": 18,
-    "common": true
+    "common": true,
+    "quote": "other"
+  },
+  {
+    "chainId": 421614,
+    "symbol": "xGRAIL",
+    "name": "Camelot xGRAIL",
+    "address": "0x60A186019F81bFD04aFc16c9C01804a04E79e68B",
+    "logoURI": "BASE_URL/assets/xgrail.svg",
+    "decimals": 18,
+    "quote": "other",
+    "excludeFromExchange": true,
+    "priceOf": "0x3d9907F9a368ad0a51Be60f7Da3b97cf940982D8"
   }
 ]
