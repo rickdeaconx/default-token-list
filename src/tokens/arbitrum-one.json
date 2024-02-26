@@ -1530,5 +1530,14 @@
     "logoURI": "BASE_URL/assets/milktia.png",
     "decimals": 6,
     "quote": "other"
+  },
+  {
+    "chainId": 42161,
+    "symbol": "TRADE",
+    "name": "Polytrade",
+    "address": "0xE22c452bd2AdE15DfC8ad98286bc6bDF0c9219b7",
+    "logoURI": "BASE_URL/assets/trade.png",
+    "decimals": 18,
+    "quote": "other"
   }
 ]
