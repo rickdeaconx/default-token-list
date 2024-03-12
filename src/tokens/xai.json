@@ -1,0 +1,23 @@
+[
+  {
+    "chainId": 660279,
+    "symbol": "WXAI",
+    "name": "Wrapped XAI",
+    "address": "0x3fB787101DC6Be47cfe18aeEe15404dcC842e6AF",
+    "logoURI": "BASE_URL/assets/xai.png",
+    "decimals": 18,
+    "isWNative": true,
+    "common": true,
+    "quote": "native"
+  },
+  {
+    "chainId": 660279,
+    "symbol": "USDC.e",
+    "name": "Bridged USDC",
+    "address": "0x300a7B57DC85b6A9776E249614aBf0FE5c9905Fb",
+    "logoURI": "BASE_URL/assets/usdc.svg",
+    "decimals": 6,
+    "common": true,
+    "quote": "stable"
+  }
+]
