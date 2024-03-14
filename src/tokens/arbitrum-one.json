@@ -1591,5 +1591,14 @@
     "logoURI": "BASE_URL/assets/peas.png",
     "decimals": 18,
     "quote": "other"
+  },
+  {
+    "chainId": 42161,
+    "symbol": "OHM",
+    "name": "Olympus",
+    "address": "0xf0cb2dc0db5e6c66B9a70Ac27B06b878da017028",
+    "logoURI": "BASE_URL/assets/ohm.png",
+    "decimals": 9,
+    "quote": "other"
   }
 ]
