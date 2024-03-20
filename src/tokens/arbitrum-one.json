@@ -1636,5 +1636,14 @@
     "logoURI": "BASE_URL/assets/taousd.png",
     "decimals": 18,
     "quote": "stable"
+  },
+  {
+    "chainId": 42161,
+    "symbol": "MOON",
+    "name": "Moons",
+    "address": "0x24404DC041d74cd03cFE28855F555559390C931b",
+    "logoURI": "BASE_URL/assets/moons.png",
+    "decimals": 18,
+    "quote": "other"
   }
 ]
