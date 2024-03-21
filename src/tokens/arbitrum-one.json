@@ -48,7 +48,9 @@
     "address": "0x2eF354C71CaAb6dC7469bB3C99642878cCD1143F",
     "logoURI": "BASE_URL/assets/igrail.png",
     "decimals": 18,
-    "quote": "other"
+    "quote": "other",
+    "buyTax": 700,
+    "sellTax": 700
   },
   {
     "chainId": 42161,
@@ -555,7 +557,9 @@
     "address": "0x09E18590E8f76b6Cf471b3cd75fE1A1a9D2B2c2b",
     "logoURI": "BASE_URL/assets/aidoge.svg",
     "decimals": 6,
-    "quote": "other"
+    "quote": "other",
+    "buyTax": 800,
+    "sellTax": 800
   },
   {
     "chainId": 42161,
@@ -564,7 +568,9 @@
     "address": "0x7C8a1A80FDd00C9Cccd6EbD573E9EcB49BFa2a59",
     "logoURI": "BASE_URL/assets/aicode.svg",
     "decimals": 18,
-    "quote": "other"
+    "quote": "other",
+    "buyTax": 800,
+    "sellTax": 800
   },
   {
     "chainId": 42161,
@@ -913,7 +919,9 @@
     "address": "0x154388a4650D63acC823e06Ef9e47C1eDdD3cBb2",
     "logoURI": "BASE_URL/assets/sen.png",
     "decimals": 18,
-    "quote": "other"
+    "quote": "other",
+    "buyTax": 500,
+    "sellTax": 500
   },
   {
     "chainId": 42161,
