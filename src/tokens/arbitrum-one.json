@@ -90,15 +90,6 @@
   },
   {
     "chainId": 42161,
-    "symbol": "GMD",
-    "name": "GMD",
-    "address": "0x4945970EfeEc98D393b4b979b9bE265A3aE28A8B",
-    "logoURI": "BASE_URL/assets/gmd.jpg",
-    "decimals": 18,
-    "quote": "other"
-  },
-  {
-    "chainId": 42161,
     "symbol": "JONES",
     "name": "Jones DAO",
     "address": "0x10393c20975cF177a3513071bC110f7962CD67da",
@@ -240,15 +231,6 @@
   },
   {
     "chainId": 42161,
-    "symbol": "OATH",
-    "name": "Oath Token",
-    "address": "0xa1150db5105987CEC5Fd092273d1e3cbb22b378b",
-    "logoURI": "BASE_URL/assets/oath.svg",
-    "decimals": 18,
-    "quote": "other"
-  },
-  {
-    "chainId": 42161,
     "symbol": "MOD",
     "name": "Modular",
     "address": "0x244Ae62439C1Ef3187f244d8604ac2c391eF2b53",
@@ -262,24 +244,6 @@
     "name": "Hop",
     "address": "0xc5102fE9359FD9a28f877a67E36B0F050d81a3CC",
     "logoURI": "BASE_URL/assets/hop.jpg",
-    "decimals": 18,
-    "quote": "other"
-  },
-  {
-    "chainId": 42161,
-    "symbol": "TAROT-OLD",
-    "name": "Tarot (deprecated)",
-    "address": "0x6688b00f0c23a4a546BEaAE51a7c90C439895D48",
-    "logoURI": "BASE_URL/assets/tarot.png",
-    "decimals": 18,
-    "quote": "other"
-  },
-  {
-    "chainId": 42161,
-    "symbol": "TAROT",
-    "name": "Tarot",
-    "address": "0x13278cD824D33A7aDB9f0a9A84ACA7C0D2DEEBf7",
-    "logoURI": "BASE_URL/assets/tarot.png",
     "decimals": 18,
     "quote": "other"
   },
@@ -469,30 +433,12 @@
   },
   {
     "chainId": 42161,
-    "symbol": "LOTTO",
-    "name": "LOTTO",
-    "address": "0x4A35cA865aBEc4205430081ccDF768610e06BfbC",
-    "logoURI": "BASE_URL/assets/lotto.png",
-    "decimals": 18,
-    "quote": "other"
-  },
-  {
-    "chainId": 42161,
     "symbol": "fUSDC",
     "name": "Fluid USDC",
     "address": "0x4CFA50B7Ce747e2D61724fcAc57f24B748FF2b2A",
     "logoURI": "BASE_URL/assets/fusdc.png",
     "decimals": 6,
     "quote": "derived_stable"
-  },
-  {
-    "chainId": 42161,
-    "symbol": "ACID",
-    "name": "Acid",
-    "address": "0x29C1EA5ED7af53094b1a79eF60d20641987c867e",
-    "logoURI": "BASE_URL/assets/acid.svg",
-    "decimals": 9,
-    "quote": "other"
   },
   {
     "chainId": 42161,
@@ -532,41 +478,12 @@
   },
   {
     "chainId": 42161,
-    "symbol": "stafi-rETH",
-    "name": "StaFi rETH",
-    "address": "0x6CDA1D3D092811b2d48F7476adb59A6239CA9b95",
-    "logoURI": "BASE_URL/assets/stafi-reth.svg",
-    "decimals": 18,
-    "quote": "derived_native"
-  },
-  {
-    "chainId": 42161,
-    "symbol": "FIS",
-    "name": "StaFi",
-    "address": "0x849B40AB2469309117Ed1038c5A99894767C7282",
-    "logoURI": "BASE_URL/assets/fis.svg",
-    "decimals": 18,
-    "quote": "other"
-  },
-  {
-    "chainId": 42161,
     "symbol": "SECT",
     "name": "Sector",
     "address": "0x0B63C61bba4a876a6eB8b5e596800F7649A9B71E",
     "logoURI": "BASE_URL/assets/sector.svg",
     "decimals": 18,
     "quote": "other"
-  },
-  {
-    "chainId": 42161,
-    "symbol": "lveSECT",
-    "name": "liquid veSECT",
-    "address": "0xf4A90562549b68f59050FE89E725CA8c257b3056",
-    "logoURI": "BASE_URL/assets/sector.svg",
-    "decimals": 18,
-    "quote": "other",
-    "excludeFromExchange": true,
-    "priceOf": "0x0B63C61bba4a876a6eB8b5e596800F7649A9B71E"
   },
   {
     "chainId": 42161,
@@ -633,16 +550,6 @@
   },
   {
     "chainId": 42161,
-    "symbol": "esLEX",
-    "name": "Escrowed LEX",
-    "address": "0x6fF4F66c85a05d9dA61646fEb725E2136cBB60B6",
-    "logoURI": "BASE_URL/assets/lex.svg",
-    "decimals": 18,
-    "quote": "other",
-    "priceOf": "0x6bB7A17AcC227fd1F6781D1EEDEAE01B42047eE0"
-  },
-  {
-    "chainId": 42161,
     "symbol": "AIDOGE",
     "name": "AIDOGE",
     "address": "0x09E18590E8f76b6Cf471b3cd75fE1A1a9D2B2c2b",
@@ -661,38 +568,11 @@
   },
   {
     "chainId": 42161,
-    "symbol": "STRD",
-    "name": "Stride",
-    "address": "0x05931D5e2F7E1C1A710c9c1dCdD94e413652376F",
-    "logoURI": "BASE_URL/assets/strd.svg",
-    "decimals": 6,
-    "quote": "other"
-  },
-  {
-    "chainId": 42161,
-    "symbol": "stATOM",
-    "name": "Stride Staked Atom",
-    "address": "0x7ba861c07d40e3341B901Fd6F418e96E0132E25b",
-    "logoURI": "BASE_URL/assets/statom.svg",
-    "decimals": 6,
-    "quote": "other"
-  },
-  {
-    "chainId": 42161,
     "symbol": "plsJONES",
     "name": "Plutus JONES",
     "address": "0xe7f6C3c1F0018E4C08aCC52965e5cbfF99e34A44",
     "logoURI": "BASE_URL/assets/plsjones.svg",
     "decimals": 18,
-    "quote": "other"
-  },
-  {
-    "chainId": 42161,
-    "symbol": "axlSOMM",
-    "name": "Axelar Wrapped SOMM",
-    "address": "0x4e914bbDCDE0f455A8aC9d59d3bF739c46287Ed2",
-    "logoURI": "BASE_URL/assets/somm.png",
-    "decimals": 6,
     "quote": "other"
   },
   {
@@ -784,17 +664,6 @@
     "logoURI": "BASE_URL/assets/pnp.jpg",
     "decimals": 18,
     "quote": "other"
-  },
-  {
-    "chainId": 42161,
-    "symbol": "rPNP",
-    "name": "Vested PNP receipt",
-    "address": "0x279427dF97B34Da65D96E92efDD2b961085356af",
-    "logoURI": "BASE_URL/assets/pnp.jpg",
-    "decimals": 18,
-    "quote": "other",
-    "excludeFromExchange": true,
-    "priceOf": "0x2Ac2B254Bc18cD4999f64773a966E4f4869c34Ee"
   },
   {
     "chainId": 42161,
@@ -891,15 +760,6 @@
   },
   {
     "chainId": 42161,
-    "symbol": "PGS",
-    "name": "PegasusBot",
-    "address": "0x8933fEDD98Cbb482e27C41e1bD7216a4e42eBd39",
-    "logoURI": "BASE_URL/assets/pgs.png",
-    "decimals": 18,
-    "quote": "other"
-  },
-  {
-    "chainId": 42161,
     "symbol": "TST",
     "name": "Standard Token",
     "address": "0xf5A27E55C748bCDdBfeA5477CB9Ae924f0f7fd2e",
@@ -936,30 +796,10 @@
   },
   {
     "chainId": 42161,
-    "symbol": "xGMBL",
-    "name": "GMBL escrowed token",
-    "address": "0x911a05E03B6C70bb55090e2D2B2186042F81287D",
-    "logoURI": "BASE_URL/assets/xgmbl.png",
-    "decimals": 18,
-    "quote": "other",
-    "excludeFromExchange": true,
-    "priceOf": "0xE9A5aF50874c0ef2748b5DB70104B5ccb5557f6d"
-  },
-  {
-    "chainId": 42161,
     "symbol": "MOZ",
     "name": "Mozaic Token",
     "address": "0x20547341E58fB558637FA15379C92e11F7b7F710",
     "logoURI": "BASE_URL/assets/moz.png",
-    "decimals": 18,
-    "quote": "other"
-  },
-  {
-    "chainId": 42161,
-    "symbol": "CONE",
-    "name": "CONE",
-    "address": "0xD3934a2e428e31ffC14B1F69B0BEc79Db3e0C614",
-    "logoURI": "BASE_URL/assets/cone.svg",
     "decimals": 18,
     "quote": "other"
   },
@@ -1108,15 +948,6 @@
     "name": "Pepe",
     "address": "0x25d887Ce7a35172C62FeBFD67a1856F20FaEbB00",
     "logoURI": "BASE_URL/assets/pepe.jpg",
-    "decimals": 18,
-    "quote": "other"
-  },
-  {
-    "chainId": 42161,
-    "symbol": "FUMO",
-    "name": "Alien Milady Fumo",
-    "address": "0x48147eF2D24532279CA2221E6C1716e382d73A6c",
-    "logoURI": "BASE_URL/assets/fumo.png",
     "decimals": 18,
     "quote": "other"
   },
