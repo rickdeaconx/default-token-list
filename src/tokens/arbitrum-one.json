@@ -1502,5 +1502,14 @@
     "logoURI": "BASE_URL/assets/wTIA.svg",
     "decimals": 18,
     "quote": "other"
+  },
+    {
+    "chainId": 42161,
+    "symbol": "ARB++",
+    "name": "ARB++",
+    "address": "0x291344FBaaC4fE14632061E4c336Fe3B94c52320",
+    "logoURI": "BASE_URL/assets/arb++.svg",
+    "decimals": 18,
+    "quote": "other"
   }
 ]
