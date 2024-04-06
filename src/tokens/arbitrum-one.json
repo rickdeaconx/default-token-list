@@ -7,6 +7,7 @@
     "logoURI": "BASE_URL/assets/weth.svg",
     "decimals": 18,
     "isWNative": true,
+    "defaultSwapInput": true,
     "quote": "native",
     "priceChartPair": "0xb7dd20f3fbf4db42fd85c839ac0241d09f72955f"
   },
@@ -18,6 +19,7 @@
     "logoURI": "BASE_URL/assets/grail.svg",
     "decimals": 18,
     "common": true,
+    "defaultSwapOutput": true,
     "quote": "other"
   },
   {
