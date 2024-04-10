@@ -13,9 +13,9 @@
   },
   {
     "chainId": 660279,
-    "symbol": "USDC.e",
-    "name": "Bridged USDC",
-    "address": "0x300a7B57DC85b6A9776E249614aBf0FE5c9905Fb",
+    "symbol": "USDC",
+    "name": "USD Coin",
+    "address": "0x1E3769Bd5fB2e9e9e7D4ED8667c947661F9A82E3",
     "logoURI": "BASE_URL/assets/usdc.svg",
     "decimals": 6,
     "common": true,
