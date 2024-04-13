@@ -381,8 +381,8 @@
   },
   {
     "chainId": 42161,
-    "symbol": "GENE",
-    "name": "GenomesDAO",
+    "symbol": "OLD-GENE",
+    "name": "GenomesDAO (deprecated)",
     "address": "0x59A729658e9245B0cF1f8Cb9fb37945D2B06ea27",
     "logoURI": "BASE_URL/assets/gene.svg",
     "decimals": 18,
@@ -390,8 +390,8 @@
   },
   {
     "chainId": 42161,
-    "symbol": "GNOME",
-    "name": "GenomesDAO Governance",
+    "symbol": "OLD-GNOME",
+    "name": "GenomesDAO Governance (deprecated)",
     "address": "0x7698Ac5D15bb3Ba7185adCBff32A80ebD9d0709B",
     "logoURI": "BASE_URL/assets/gnome.svg",
     "decimals": 18,
