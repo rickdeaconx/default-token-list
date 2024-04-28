@@ -1613,5 +1613,14 @@
     "logoURI": "BASE_URL/assets/rubic.png",
     "decimals": 18,
     "quote": "other"
+  },
+  {
+    "chainId": 42161,
+    "symbol": "OD",
+    "name": "Open Dollar",
+    "address": "0x221A0f68770658C15B525d0F89F5da2baAB5f321",
+    "logoURI": "BASE_URL/assets/od.svg",
+    "decimals": 18,
+    "quote": "derived_stable"
   }
 ]
