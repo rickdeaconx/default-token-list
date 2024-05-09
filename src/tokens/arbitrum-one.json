@@ -1629,7 +1629,8 @@
     "address": "0x12275DCB9048680c4Be40942eA4D92c74C63b844",
     "logoURI": "BASE_URL/assets/eusd.png",
     "decimals": 18,
-    "quote": "derived_stable"
+    "quote": "derived_stable",
+    "intermediaryTokens": ["0x96a993f06951B01430523D0D5590192d650EBf3e"]
   },
   {
     "chainId": 42161,
@@ -1656,7 +1657,8 @@
     "address": "0x0BBF664D46becc28593368c97236FAa0fb397595",
     "logoURI": "BASE_URL/assets/knox.png",
     "decimals": 18,
-    "quote": "derived_stable"
+    "quote": "derived_stable",
+    "intermediaryTokens": ["0x96a993f06951B01430523D0D5590192d650EBf3e"]
   },
   {
     "chainId": 42161,
