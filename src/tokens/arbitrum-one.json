@@ -1582,7 +1582,7 @@
     "symbol": "xSYK",
     "name": "XStrykeToken",
     "address": "0x50E04E222Fc1be96E94E86AcF1136cB0E97E1d40",
-    "logoURI": "BASE_URL/assets/syk.svg",
+    "logoURI": "BASE_URL/assets/xsyk.svg",
     "decimals": 18,
     "quote": "other",
     "excludeFromExchange": true,
