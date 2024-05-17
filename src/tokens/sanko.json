@@ -21,5 +21,15 @@
     "common": true,
     "defaultSwapInput": true,
     "quote": "stable"
+  },
+  {
+    "chainId": 1996,
+    "symbol": "wETH",
+    "name": "Wrapped ETH",
+    "address": "0xE01e3b20C5819cf919F7f1a2b4C18bBfd222F376",
+    "logoURI": "BASE_URL/assets/weth.svg",
+    "decimals": 18,
+    "common": true,
+    "quote": "other"
   }
 ]
