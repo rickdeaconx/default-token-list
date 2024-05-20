@@ -58,5 +58,14 @@
     "logoURI": "BASE_URL/assets/eugene.png",
     "decimals": 18,
     "quote": "other"
+  },
+  {
+    "chainId": 1996,
+    "symbol": "WONY",
+    "name": "WONYCOIN",
+    "address": "0x8D18F820d0bD4cE93550EcB9a69763E585713E1d",
+    "logoURI": "BASE_URL/assets/wony.png",
+    "decimals": 6,
+    "quote": "other"
   }
 ]
