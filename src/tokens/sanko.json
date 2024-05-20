@@ -31,5 +31,32 @@
     "decimals": 18,
     "common": true,
     "quote": "other"
+  },
+  {
+    "chainId": 1996,
+    "symbol": "STANKO",
+    "name": "stanko",
+    "address": "0x9c2730eA529c70E901fbDaf3e15E110CA8701C61",
+    "logoURI": "BASE_URL/assets/stanko.png",
+    "decimals": 18,
+    "quote": "other"
+  },
+  {
+    "chainId": 1996,
+    "symbol": "STAR",
+    "name": "Beat The Allegations",
+    "address": "0x3C84f959f4b8ca0c39847d02f936e13Fa8fC4Eb9",
+    "logoURI": "BASE_URL/assets/star.png",
+    "decimals": 18,
+    "quote": "other"
+  },
+  {
+    "chainId": 1996,
+    "symbol": "EUGENE",
+    "name": "EUGENE",
+    "address": "0x619Ef22392A549C9638D170db8C985fD147fAC98",
+    "logoURI": "BASE_URL/assets/eugene.png",
+    "decimals": 18,
+    "quote": "other"
   }
 ]
