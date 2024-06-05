@@ -1688,5 +1688,14 @@
     "logoURI": "BASE_URL/assets/gme.dw.svg",
     "decimals": 18,
     "quote": "other"
+  },
+  {
+    "chainId": 42161,
+    "symbol": "USDV",
+    "name": "Verified USD",
+    "address": "0x323665443CEf804A3b5206103304BD4872EA4253",
+    "logoURI": "BASE_URL/assets/usdv.png",
+    "decimals": 6,
+    "quote": "other"
   }
 ]
