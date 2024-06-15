@@ -61,19 +61,55 @@
   },
   {
     "chainId": 1996,
-    "symbol": "WONY",
-    "name": "WONYCOIN",
-    "address": "0x8D18F820d0bD4cE93550EcB9a69763E585713E1d",
-    "logoURI": "BASE_URL/assets/wony.png",
-    "decimals": 6,
-    "quote": "other"
-  },
-  {
-    "chainId": 1996,
     "symbol": "GOLD",
     "name": "Sanko Gold",
     "address": "0x6F5e2d3b8c5C5c5F9bcB4adCF40b13308e688D4D",
     "logoURI": "BASE_URL/assets/sankogold.png",
+    "decimals": 18,
+    "quote": "other"
+  },
+  {
+    "chainId": 1996,
+    "symbol": "TARD",
+    "name": "DMTardio Token",
+    "address": "0xad89dCFE247D12136Bc66127d70fFAb476136eCB",
+    "logoURI": "BASE_URL/assets/dmtardio.png",
+    "decimals": 18,
+    "quote": "other"
+  },
+  {
+    "chainId": 1996,
+    "symbol": "TRIPPY",
+    "name": "Trippy Dimethyltryptamine",
+    "address": "0xCBcd7944c0E729dDF44A8Fed973D74BD37Af9170",
+    "logoURI": "BASE_URL/assets/trippy.png",
+    "decimals": 18,
+    "quote": "other"
+  },
+  {
+    "chainId": 1996,
+    "symbol": "SRANKO",
+    "name": "POOP",
+    "address": "0x80e53DC303782d6CC1624d56b4C3bDa4125DB158",
+    "logoURI": "BASE_URL/assets/sranko.png",
+    "decimals": 18,
+    "quote": "other"
+  },
+  {
+    "chainId": 1996,
+    "symbol": "SMOKE",
+    "name": "smoke the ticker",
+    "address": "0xe78A3857593083dD6e1F7859e1B711401FC6f2cc",
+    "logoURI": "BASE_URL/assets/smoke.png",
+    "decimals": 18,
+    "quote": "other"
+  },
+  {
+    "chainId": 1996,
+    "symbol": "LSD",
+    "name": "LSD",
+    "address": "0x3c02f27100a06287e55bBA1A588CdC22D72B7965",
+    "logoURI": "BASE_URL/assets/lsd.png",
     "decimals": 18,
     "quote": "other"
   }
