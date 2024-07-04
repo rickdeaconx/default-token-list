@@ -2,6 +2,7 @@ const { version } = require("../package.json");
 require('dotenv').config()
 const arbitrumSepolia = require("./tokens/arbitrum-sepolia.json");
 const arbitrumOne = require("./tokens/arbitrum-one.json");
+const gravity = require("./tokens/gravity.json");
 const rari = require("./tokens/rari.json");
 const reya = require("./tokens/reya.json");
 const sanko = require("./tokens/sanko.json");
@@ -10,7 +11,7 @@ const xai = require("./tokens/xai.json");
 const BASE_URL = process.env.BASE_URL || "https://token-list.camelot.exchange"
 
 module.exports = function buildList() {
-    const tokens = [...arbitrumSepolia, ...arbitrumOne, ...rari, ...reya, ...sanko, ...xai]
+    const tokens = [...arbitrumSepolia, ...arbitrumOne, ...gravity, ...rari, ...reya, ...sanko, ...xai]
   const processedTokens = JSON.parse(JSON.stringify(tokens).replace(/BASE_URL/g, BASE_URL))
   const parsed = version.split(".");
 
