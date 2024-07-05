@@ -1760,5 +1760,14 @@
     "logoURI": "BASE_URL/assets/cnote.svg",
     "decimals": 18,
     "quote": "derived_stable"
+  },
+  {
+    "chainId": 42161,
+    "symbol": "ETHFI",
+    "name": "ether.fi governance token",
+    "address": "0x7189fb5B6504bbfF6a852B13B7B82a3c118fDc27",
+    "logoURI": "BASE_URL/assets/ethfi.svg",
+    "decimals": 18,
+    "quote": "other"
   }
 ]
