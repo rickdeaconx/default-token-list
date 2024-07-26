@@ -13,10 +13,10 @@
   },
   {
     "chainId": 1625,
-    "symbol": "USDT",
-    "name": "Tether USD",
-    "address": "0xD03ee9632901D1E355D39158A474fA42b248BC05",
-    "logoURI": "BASE_URL/assets/usdt.svg",
+    "symbol": "USDC",
+    "name": "USD Coin",
+    "address": "0xFbDa5F676cB37624f28265A144A48B0d6e87d3b6",
+    "logoURI": "BASE_URL/assets/usdc.svg",
     "decimals": 6,
     "common": true,
     "defaultSwapInput": true,
@@ -24,13 +24,22 @@
   },
   {
     "chainId": 1625,
-    "symbol": "USDC",
-    "name": "USD Coin",
-    "address": "0x9aEA9DBb3E0982D2E7b4933018C3eBc304316752",
-    "logoURI": "BASE_URL/assets/usdc.svg",
+    "symbol": "USDT",
+    "name": "Tether USD",
+    "address": "0x816E810f9F787d669FB71932DeabF6c83781Cd48",
+    "logoURI": "BASE_URL/assets/usdt.svg",
     "decimals": 6,
     "common": true,
     "quote": "derived_stable"
+  },
+  {
+    "chainId": 1625,
+    "symbol": "wETH",
+    "name": "Wrapped Ether",
+    "address": "0xf6f832466Cd6C21967E0D954109403f36Bc8ceaA",
+    "logoURI": "BASE_URL/assets/weth.svg",
+    "decimals": 18,
+    "quote": "other"
   },
   {
     "chainId": 1625,
@@ -44,37 +53,10 @@
   },
   {
     "chainId": 1625,
-    "symbol": "weETH",
-    "name": "Wrapped eETH",
-    "address": "0xeD244AaFCE5962cF43CD780b948c11591663D79d",
-    "logoURI": "BASE_URL/assets/weeth.png",
-    "decimals": 18,
-    "quote": "derived_native"
-  },
-  {
-    "chainId": 1625,
-    "symbol": "wstETH",
-    "name": "Wrapped liquid staked Ether 2.0",
-    "address": "0xBC0f4Ca84D2ac97bc4702564b033A6402159e8DE",
-    "logoURI": "BASE_URL/assets/wsteth.svg",
-    "decimals": 18,
-    "quote": "derived_native"
-  },
-  {
-    "chainId": 1625,
     "symbol": "DAI",
     "name": "Dai Stablecoin",
     "address": "0xBFBBc4dA47508e85AC18DFC961fa182194E85f9a",
     "logoURI": "BASE_URL/assets/dai.svg",
-    "decimals": 18,
-    "quote": "derived_stable"
-  },
-  {
-    "chainId": 1625,
-    "symbol": "USDe",
-    "name": "USDe",
-    "address": "0x020462591af819a79A7Fc9B075f2F6bfE1233b5b",
-    "logoURI": "BASE_URL/assets/usde.svg",
     "decimals": 18,
     "quote": "derived_stable"
   }
