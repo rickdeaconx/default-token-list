@@ -1,0 +1,35 @@
+[
+  {
+    "chainId": 360,
+    "symbol": "WMOLTEN",
+    "name": "Wrapped Molten",
+    "address": "0xdBc38Db4F11b7D111477f17e757aa17dD3348a6d",
+    "logoURI": "BASE_URL/assets/molten.png",
+    "decimals": 18,
+    "isWNative": true,
+    "common": true,
+    "defaultSwapOutput": true,
+    "quote": "native"
+  },
+  {
+    "chainId": 360,
+    "symbol": "USDC",
+    "name": "USD Coin",
+    "address": "0x135B641E61CFC9a068b82E02fF0f051f6e5D4721",
+    "logoURI": "BASE_URL/assets/usdc.svg",
+    "decimals": 6,
+    "common": true,
+    "defaultSwapInput": true,
+    "quote": "stable"
+  },
+  {
+    "chainId": 360,
+    "symbol": "WETH",
+    "name": "Wrapped Ether",
+    "address": "0x09Bf29B44130e88F113C1Fb0487BCB97b6920C31",
+    "logoURI": "BASE_URL/assets/weth.svg",
+    "decimals": 18,
+    "common": true,
+    "quote": "other"
+  }
+]
