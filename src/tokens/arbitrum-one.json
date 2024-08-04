@@ -1779,5 +1779,14 @@
     "decimals": 18,
     "priceChartPair": "0xA1cb647629Aa2dec7a7971D749b4154D4c69BEC6",
     "quote": "other"
+  },
+  {
+    "chainId": 42161,
+    "symbol": "gUSDC",
+    "name": "Gains Network USDC",
+    "address": "0xd3443ee1e91aF28e5FB858Fbd0D72A63bA8046E0",
+    "logoURI": "BASE_URL/assets/gusdc.png",
+    "decimals": 6,
+    "quote": "derived_stable"
   }
 ]
