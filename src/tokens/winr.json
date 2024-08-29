@@ -1,0 +1,55 @@
+[
+  {
+    "chainId": 777777,
+    "symbol": "WWINR",
+    "name": "Wrapped WINR",
+    "address": "0xBF6FA9d2BF9f681E7b6521b49Cf8ecCF9ad8d31d",
+    "logoURI": "BASE_URL/assets/winr.svg",
+    "decimals": 18,
+    "isWNative": true,
+    "common": true,
+    "defaultSwapOutput": true,
+    "quote": "native"
+  },
+  {
+    "chainId": 777777,
+    "symbol": "USDC",
+    "name": "USD Coin",
+    "address": "0x59edbB343991D30f77dcdBad94003777e9B09BA9",
+    "logoURI": "BASE_URL/assets/usdc.svg",
+    "decimals": 6,
+    "common": true,
+    "defaultSwapInput": true,
+    "quote": "stable"
+  },
+  {
+    "chainId": 777777,
+    "symbol": "USDT",
+    "name": "Tether USD",
+    "address": "0x0381132632E9E27A8f37F1bc56bd5a62d21a382B",
+    "logoURI": "BASE_URL/assets/usdt.svg",
+    "decimals": 6,
+    "common": true,
+    "quote": "derived_stable"
+  },
+  {
+    "chainId": 777777,
+    "symbol": "wETH",
+    "name": "Wrapped Ether",
+    "address": "0xE60256921AE414D7B35d6e881e47931f45E027cf",
+    "logoURI": "BASE_URL/assets/weth.svg",
+    "decimals": 18,
+    "common": true,
+    "quote": "other"
+  },
+  {
+    "chainId": 777777,
+    "symbol": "WBTC",
+    "name": "Wrapped BTC",
+    "address": "0x44BD533C211C78e01f0F738826e8b18Bb9b936f5",
+    "logoURI": "BASE_URL/assets/wbtc.svg",
+    "decimals": 6,
+    "common": true,
+    "quote": "other"
+  }
+]

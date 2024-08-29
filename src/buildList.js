@@ -8,12 +8,13 @@ const proofOfPlay = require("./tokens/proof-of-play.json");
 const rari = require("./tokens/rari.json");
 const reya = require("./tokens/reya.json");
 const sanko = require("./tokens/sanko.json");
+const winr = require("./tokens/winr.json");
 const xai = require("./tokens/xai.json");
 
 const BASE_URL = process.env.BASE_URL || "https://token-list.camelot.exchange"
 
 module.exports = function buildList() {
-  const tokens = [...arbitrumSepolia, ...arbitrumOne, ...gravity, ...molten, ...proofOfPlay, ...rari, ...reya, ...sanko, ...xai]
+  const tokens = [...arbitrumSepolia, ...arbitrumOne, ...gravity, ...molten, ...proofOfPlay, ...rari, ...reya, ...sanko, ...winr, ...xai]
   const processedTokens = JSON.parse(JSON.stringify(tokens).replace(/BASE_URL/g, BASE_URL))
   const parsed = version.split(".");
 
