@@ -1,0 +1,45 @@
+[
+  {
+    "chainId": 41455,
+    "symbol": "WAZERO",
+    "name": "Wrapped Aleph Zero",
+    "address": "0xb7Da55D7040ef9C887e20374D76A88F93A59119E",
+    "logoURI": "BASE_URL/assets/azero.png",
+    "decimals": 18,
+    "isWNative": true,
+    "common": true,
+    "defaultSwapOutput": true,
+    "quote": "native"
+  },
+  {
+    "chainId": 41455,
+    "symbol": "USDC",
+    "name": "USD Coin",
+    "address": "0x4Ca4B85Ead5EA49892d3a81DbfAE2f5c2F75d53D",
+    "logoURI": "BASE_URL/assets/usdc.svg",
+    "decimals": 6,
+    "common": true,
+    "defaultSwapInput": true,
+    "quote": "stable"
+  },
+  {
+    "chainId": 41455,
+    "symbol": "USDT",
+    "name": "Tether USD",
+    "address": "0xD648529D4803d3467bA8850577BEd4e4b8Ae583C",
+    "logoURI": "BASE_URL/assets/usdt.svg",
+    "decimals": 6,
+    "common": true,
+    "quote": "derived_stable"
+  },
+  {
+    "chainId": 41455,
+    "symbol": "WETH",
+    "name": "Wrapped Ether",
+    "address": "0xB3f0eE446723f4258862D949B4c9688e7e7d35d3",
+    "logoURI": "BASE_URL/assets/weth.svg",
+    "decimals": 18,
+    "common": true,
+    "quote": "other"
+  }
+]
