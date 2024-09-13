@@ -1838,5 +1838,23 @@
     "logoURI": "BASE_URL/assets/order.svg",
     "decimals": 18,
     "quote": "other"
+  },
+  {
+    "chainId": 42161,
+    "symbol": "GRND",
+    "name": "SuperWalk",
+    "address": "0x3b58a4C865B568a2F6a957C264F6b50CbA35D8CE",
+    "logoURI": "BASE_URL/assets/grnd.png",
+    "decimals": 18,
+    "quote": "other"
+  },
+  {
+    "chainId": 42161,
+    "symbol": "WALK",
+    "name": "Walk Token",
+    "address": "0x9d0c0675a995d5F12b03E880763F639d0628b5C6",
+    "logoURI": "BASE_URL/assets/walk.png",
+    "decimals": 18,
+    "quote": "other"
   }
 ]
