@@ -1808,7 +1808,8 @@
     "address": "0x4C9aAed3b8c443b4b634D1A189a5e25C604768dE",
     "logoURI": "BASE_URL/assets/lusdc.svg",
     "decimals": 8,
-    "quote": "other"
+    "quote": "other",
+    "intermediaryTokens": ["0xF19547f9ED24aA66b03c3a552D181Ae334FBb8DB"]
   },
   {
     "chainId": 42161,
@@ -1817,7 +1818,8 @@
     "address": "0x2193c45244AF12C280941281c8aa67dD08be0a64",
     "logoURI": "BASE_URL/assets/leth.svg",
     "decimals": 8,
-    "quote": "other"
+    "quote": "other",
+    "intermediaryTokens": ["0xF19547f9ED24aA66b03c3a552D181Ae334FBb8DB"]
   },
   {
     "chainId": 42161,
