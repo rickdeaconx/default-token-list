@@ -8,8 +8,7 @@
     "decimals": 18,
     "isWNative": true,
     "defaultSwapInput": true,
-    "quote": "native",
-    "priceChartPair": "0xb7dd20f3fbf4db42fd85c839ac0241d09f72955f"
+    "quote": "native"
   },
   {
     "chainId": 42161,
@@ -163,8 +162,8 @@
     "logoURI": "BASE_URL/assets/usdc.svg",
     "decimals": 6,
     "common": true,
-    "quote": "stable",
-    "priceChartPair": "0x8dbbc03de7701cf3336a035695f8d3225418e79f",
+    "quote": "derived_stable",
+    "priceChartPair": "0xc86Eb7B85807020b4548EE05B54bfC956eEbbfCD",
     "forcePriceFromV3": true
   },
   {
@@ -175,8 +174,8 @@
     "logoURI": "BASE_URL/assets/usdc.svg",
     "decimals": 6,
     "common": true,
-    "quote": "derived_stable",
-    "priceChartPair": "0x8dbbc03de7701cf3336a035695f8d3225418e79f",
+    "quote": "stable",
+    "priceChartPair": "0xc86Eb7B85807020b4548EE05B54bfC956eEbbfCD",
     "forcePriceFromV3": true
   },
   {
@@ -197,7 +196,7 @@
     "decimals": 6,
     "common": true,
     "quote": "derived_stable",
-    "priceChartPair": "0x8dbbc03de7701cf3336a035695f8d3225418e79f",
+    "priceChartPair": "0xa17aFCAb059F3C6751F5B64347b5a503C3291868",
     "forcePriceFromV3": true
   },
   {
@@ -1780,7 +1779,6 @@
     "address": "0xDFB8BE6F8c87f74295A87de951974362CedCFA30",
     "logoURI": "BASE_URL/assets/emc.jpeg",
     "decimals": 18,
-    "priceChartPair": "0xA1cb647629Aa2dec7a7971D749b4154D4c69BEC6",
     "quote": "other"
   },
   {
