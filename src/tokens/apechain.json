@@ -1,0 +1,35 @@
+[
+  {
+    "chainId": 33139,
+    "symbol": "WAPE",
+    "name": "Wrapped ApeCoin",
+    "address": "0x48b62137EdfA95a428D35C09E44256a739F6B557",
+    "logoURI": "BASE_URL/assets/ape.svg",
+    "decimals": 18,
+    "isWNative": true,
+    "common": true,
+    "defaultSwapOutput": true,
+    "quote": "native"
+  },
+  {
+    "chainId": 33139,
+    "symbol": "apeUSD",
+    "name": "Ape USD",
+    "address": "0xA2235d059F80e176D931Ef76b6C51953Eb3fBEf4",
+    "logoURI": "BASE_URL/assets/apeusd.jpg",
+    "decimals": 18,
+    "common": true,
+    "defaultSwapInput": true,
+    "quote": "stable"
+  },
+  {
+    "chainId": 33139,
+    "symbol": "apeETH",
+    "name": "Ape ETH",
+    "address": "0xcF800F4948D16F23333508191B1B1591daF70438",
+    "logoURI": "BASE_URL/assets/apeeth.jpg",
+    "decimals": 18,
+    "common": true,
+    "quote": "other"
+  }
+]
