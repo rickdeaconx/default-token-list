@@ -133,6 +133,15 @@
   },
   {
     "chainId": 33139,
+    "symbol": "WONG",
+    "name": "WONG",
+    "address": "0xd6e4DF460D9ba104Dfc5Dc57DB392c177083d20c",
+    "logoURI": "BASE_URL/assets/wong.png",
+    "decimals": 18,
+    "quote": "other"
+  },
+  {
+    "chainId": 33139,
     "symbol": "CULT",
     "name": "NOT A CULT",
     "address": "0xc7689ac46BC7a2c2819F0d9F280DC09C43295aBA",
