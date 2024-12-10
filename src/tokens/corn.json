@@ -45,7 +45,7 @@
     "symbol": "aBTC",
     "name": "aBTC",
     "address": "0x76b0D27F268f405584ACA51b371b144dD5b0a155",
-    "logoURI": "BASE_URL/assets/abtc.svg",
+    "logoURI": "BASE_URL/assets/abtc.png",
     "decimals": 18,
     "quote": "derived_native"
   },
@@ -54,7 +54,7 @@
     "symbol": "waBTC",
     "name": "Wrapped aBTC",
     "address": "0x09DEF5aBc67e967d54E8233A4b5EBBc1B3fbE34b",
-    "logoURI": "BASE_URL/assets/wabtc.svg",
+    "logoURI": "BASE_URL/assets/abtc.png",
     "decimals": 18,
     "quote": "derived_native"
   },
@@ -63,7 +63,7 @@
     "symbol": "LBTC",
     "name": "Lombard Staked Bitcoin",
     "address": "0xecAc9C5F704e954931349Da37F60E39f515c11c1",
-    "logoURI": "BASE_URL/assets/lbtc.svg",
+    "logoURI": "BASE_URL/assets/lbtc.png",
     "decimals": 8,
     "quote": "derived_native"
   },
@@ -72,7 +72,7 @@
     "symbol": "pumpBTC",
     "name": "pumpBTC",
     "address": "0xF469fBD2abcd6B9de8E169d128226C0Fc90a012e",
-    "logoURI": "BASE_URL/assets/pumpbtc.svg",
+    "logoURI": "BASE_URL/assets/pumpbtc.png",
     "decimals": 8,
     "quote": "derived_native"
   }
