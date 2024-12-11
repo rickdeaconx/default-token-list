@@ -299,7 +299,7 @@
         "quote": {
           "type": "string",
           "description": "The checksummed address of the token on the specified chain ID",
-          "pattern": "^(native|stable|other|derived_native|derived_stable)$",
+          "pattern": "^(native|stable|other|derived_native|derived_stable|points)$",
           "examples": [
             "native"
           ]
