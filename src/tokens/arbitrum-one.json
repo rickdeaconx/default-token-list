@@ -2073,5 +2073,14 @@
     "logoURI": "BASE_URL/assets/carv.svg",
     "decimals": 18,
     "quote": "other"
+  },
+  {
+    "chainId": 42161,
+    "symbol": "O3",
+    "name": "O3",
+    "address": "0xDd89a4D3362828e601df52208302A741F08E46c5",
+    "logoURI": "BASE_URL/assets/o3.png",
+    "decimals": 18,
+    "quote": "other"
   }
 ]
